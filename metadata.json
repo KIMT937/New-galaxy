@@ -2,5 +2,7 @@
   "name": "갤럭시 아케이드 (Galaxy Arcade)",
   "description": "클래식 갤러그와 갤럭시 감성을 재해석한 정통 레트로 우주 슈팅 아케이드 게임. 편대 비행, 보스전, 듀얼 파이터 합체, 레트로 사운드 지원.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
